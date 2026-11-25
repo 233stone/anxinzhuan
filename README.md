@@ -4,6 +4,8 @@
 
 An offline speech-to-text CLI powered by SenseVoice-Small (zh / en / yue / ja / ko).
 
+> 需要批量转写、说话人区分、更多模型等完整功能，请下载安心转桌面版：[Releases](https://github.com/233stone/anxinzhuan/releases) 或 [官网](https://anxinzhuan.cn)。
+
 ## 安装
 
 需要 [Rust](https://rustup.rs)：
